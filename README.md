@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Osama 👋
 
-<!--
-**OsamaAlsahli/OsamaAlsahli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student at University of York
+🤖 Interested in robotics, embedded systems, and control
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Maze-Solving Robot](https://github.com/OsamaAlsahli/micromouse_robot) | Autonomous navigation using Bug2-based algorithm | C++, mbed, Arduino, Sensors |
+
+
+## Skills
+
+- **Languages:** C/C++, Python, MATLAB
+- **Hardware:** Arduino, Raspberry Pi, STM32, PCB Design
+- **Tools:** Git, Fusion360, Autodesk Inventor, mbed
+
+## Contact
+
+- 📧 ossamaalsahli@gmail.com
+- 📧 fwm509@york.ac.uk
+- 💼 [LinkedIn]: https://www.linkedin.com/in/osama-alsahli-325080317/
