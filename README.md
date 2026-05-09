@@ -7,7 +7,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Maze-Solving Robot](https://github.com/OsamaAlsahli/micromouse_robot) | Autonomous navigation using Bug2-based algorithm | C++, mbed, Arduino, Sensors |
+| [Maze-Solving Robot](https://github.com/OsamaAlsahli/maze-solving-robot) | Autonomous navigation using Bug2-based algorithm | C++, mbed, Arduino, Sensors |
 
 
 ## Skills
