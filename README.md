@@ -8,13 +8,15 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Maze-Solving Robot](https://github.com/OsamaAlsahli/maze-solving-robot) | Autonomous navigation using Bug2-based algorithm | C++, mbed, Arduino, Sensors |
+| [Data-Glove](https://github.com/OsamaAlsahli/data-glove). | Hand motion tracking and contact force sensing | PCB Design, C++, python, ESP32, IMUs, communication protocols (I2C,SPI,UART) |
+
 
 
 ## Skills
 
 - **Languages:** C/C++, Python, MATLAB
-- **Hardware:** Arduino, Raspberry Pi, STM32, PCB Design
-- **Tools:** Git, Fusion360, Autodesk Inventor, mbed
+- **Hardware:** ESP32, Arduino, Raspberry Pi, STM32, PCB Design
+- **Tools:** Git, Fusion360, Autodesk Inventor, KiCAD, OpenCV, mbed
 
 ## Contact
 
