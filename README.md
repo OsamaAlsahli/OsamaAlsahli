@@ -7,7 +7,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Data-Glove](https://github.com/OsamaAlsahli/data-glove). | Hand motion tracking and contact force sensing | PCB Design, C++, python, ESP32, IMUs, communication protocols (I2C,SPI,UART) |
+| [Data-Glove](https://github.com/OsamaAlsahli/data-glove) | Hand motion tracking and contact force sensing | PCB Design, C++, python, ESP32, IMUs, communication protocols (I2C,SPI,UART) |
 | [Maze-Solving Robot](https://github.com/OsamaAlsahli/maze-solving-robot) | Autonomous navigation using Bug2-based algorithm | C++, mbed, Arduino, Sensors |
 
 
